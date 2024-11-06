@@ -1,5 +1,3 @@
-- 👀I'm currently Practicing Front-End Development Frameworks and Libraries
-
 # 💫 About Me:
 Hi, I’m Shiva, an Intermediate Full Stack Developer passionate about building seamless web applications. I specialize in front-end and back-end technologies like JavaScript, React, Node.js, and SQL.
 
